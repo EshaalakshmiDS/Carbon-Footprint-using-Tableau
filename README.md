@@ -21,6 +21,10 @@ By analyzing and visualizing emissions data on a per capita basis, we can identi
 ## Screenshots
 
 <img src="https://github.com/EshaalakshmiDS/Carbon-Footprint-using-Tableau/blob/main/Images/carbonfootprint1.png" alt="SS 1"/>
+<br>
+<img src="https://github.com/EshaalakshmiDS/Carbon-Footprint-using-Tableau/blob/main/Images/carbonfootprint2.png" alt="SS 2"/>
+<br>
+<img src="https://github.com/EshaalakshmiDS/Carbon-Footprint-using-Tableau/blob/main/Images/carbonfootprint3.png" alt="SS 3"/>
 
 ## Data Sources
 [Carbon Emission Data](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions)
