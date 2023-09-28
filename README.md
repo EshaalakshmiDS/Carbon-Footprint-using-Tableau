@@ -5,7 +5,7 @@ Visualizing global CO2 emissions per capita with Tableau to identify countries w
 </p>
 </div>
 
-[View Carbon Footprint Dashboard](https://public.tableau.com/app/profile/eshaalakshmi.d.s/viz/carbonfootprint-eshaa/Dashboard1) <br>
+[View Carbon Footprint Dashboard](https://public.tableau.com/app/profile/eshaalakshmi.d.s/viz/carbonfootprint_16419147506440/Dashboard1) <br>
 [My Tableau Account](https://public.tableau.com/app/profile/eshaalakshmi.d.s/vizzes)
 
 ## Tableau Introduction
@@ -18,6 +18,10 @@ The "Carbon Footprint Analysis with Tableau" project is a data visualization ini
 
 By analyzing and visualizing emissions data on a per capita basis, we can identify countries that have a disproportionately high carbon footprint compared to their population size. This project aims to raise awareness about the environmental impact of different regions and foster discussions on sustainable practices and policies.
 
+## Screenshots
+
 ## Data Sources
 [Carbon Emission Data](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions)
+
+
 
