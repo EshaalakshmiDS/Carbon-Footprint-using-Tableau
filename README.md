@@ -19,6 +19,7 @@ The "Carbon Footprint Analysis with Tableau" project is a data visualization ini
 By analyzing and visualizing emissions data on a per capita basis, we can identify countries that have a disproportionately high carbon footprint compared to their population size. This project aims to raise awareness about the environmental impact of different regions and foster discussions on sustainable practices and policies.
 
 ## Screenshots
+![PIC1!](carbonfootprint1.png)
 
 ## Data Sources
 [Carbon Emission Data](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions)
